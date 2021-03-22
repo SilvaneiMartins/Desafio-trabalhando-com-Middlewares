@@ -47,7 +47,6 @@ $ yarn install
 $ yarn dev
 ```
 
-
 ### Test:earth_americas:
 Para executar test para aplicação, você precisa executar o seguinte comandos logo abaixo:
 
