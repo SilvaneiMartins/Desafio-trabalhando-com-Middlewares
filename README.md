@@ -35,10 +35,10 @@ Para criar e executar esta aplicação backend, você precisa executar o seguint
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/SilvaneiMartins/desafio-1-conceito-nodejs
+$ git clone https://github.com/SilvaneiMartins/Desafio-trabalhando-com-Middlewares
 
 # Acessar a pasta criada pelo repositório
-$ cd desafio-1-conceito-nodejs
+$ cd Desafio-trabalhando-com-Middlewares
 
 # Instalar as dependências do sistema
 $ yarn install
@@ -58,7 +58,7 @@ $ yarn test
 
 
 ## :memo: License
-Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/desafio-1-conceito-nodejs/blob/master/LICENSE) for more information.
+Este desafio está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/Desafio-trabalhando-com-Middlewares/blob/master/LICENSE) for more information.
 
 ---
 
