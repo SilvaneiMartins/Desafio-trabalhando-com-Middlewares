@@ -1,5 +1,5 @@
 <h1 align="center">
-    2º Desafio Trabalhando com Middlewares
+    2º Desafio - Trabalhando com Middlewares
 </h1>
 
 <h4 align="left">
