@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="left">
-Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar uma aplicação em node.js, Nesse desafio eu trabalhei mais a fundo com middlewares no Express. Dessa forma apreindi a fixar mais ainda os conhecimentos obtidos até agora.
+Dando um upgrade nos meus estudos na stack node js, o desafio proposto foi criar uma aplicação em node.js, Nesse desafio eu trabalhei mais a fundo com middlewares no Express. Dessa forma aprendi a fixar mais ainda os conhecimentos obtidos até agora.
 </h4>
 
 <p align="center">
