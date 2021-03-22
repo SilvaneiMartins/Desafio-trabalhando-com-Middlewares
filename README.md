@@ -1,9 +1,9 @@
 <h1 align="center">
-    1º Desafio conceito Node Js
+    2º Desafio Trabalhando com Middlewares
 </h1>
 
 <h4 align="left">
-Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar uma aplicação em node.js, era criar uma aplicacão para tarefas, na aplicação foi permitida a criação de uma tarefa, listar  as tarefas, alterar titulo da tarefa, marcar todos as tarefas como feitas e poder excluir uma tarefa.
+Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar uma aplicação em node.js, Nesse desafio eu trabalhei mais a fundo com middlewares no Express. Dessa forma apreindi a fixar mais ainda os conhecimentos obtidos até agora.
 </h4>
 
 <p align="center">
@@ -15,7 +15,8 @@ Dando um upgrade nos meus estudos na stack node js, o desagio proposto foi criar
 <h4 align="left">
   Imagen do desafio conceito em Node.js
 </h4>
-<a href="https://imgur.com/V49dYNL"><img src="https://i.imgur.com/V49dYNL.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Bnm9Td3"><img src="https://i.imgur.com/Bnm9Td3.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XIqrg7M"><img src="https://i.imgur.com/XIqrg7M.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias usadas no desenvolvimento;
 
